@@ -1,3 +1,0 @@
-# ObjectDetectionTF
-
-"made change"
